@@ -2,7 +2,7 @@
 
 ## My Contact Info
 
-- **Address:** Incheon, Michuhol-gu Hannaru-ro  493 beon-gil 93
+- **Address:** Incheon, Michuhol-gu Hannaru-ro  493 beon-gil 93, 202 
 - **Phone:** +821051942775
 - **E-mail:** <uktamnishonov95@gmail.com>
 - **LinkedIn:** [Uktam_Nishonov_linkedIn](https://www.linkedin.com/in/uktam-nishonov-237b1a244/)

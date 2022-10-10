@@ -13,7 +13,7 @@
 So in today's world Information Technology is becoming incredibly powerful, in cases of which is like changing people lives in a short period, and that
 means the future of humankind lays down IT. Additionally, it is the field with higher amount of fee, which is gives you more enjoyable life and so on.
 My passion from choosing this field is to contribute to the development of my country. I want to make my country well known with its scholar programmers 
-and the projects they will introduce to humankind.
+and the projects they will introduce to people.
 
 
 # Skills

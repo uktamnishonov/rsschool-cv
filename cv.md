@@ -20,6 +20,7 @@ and the projects they will introduce to humankind.
 - HTML
 - CSS (Framework Bootstrap, Preprocessor SASS, BEM methodology, 7-1 Architecture)
 - JavaScript (Beginner)
+- C++
 - Python (Fundamentals)
 
 # Code Examples
